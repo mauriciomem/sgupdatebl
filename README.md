@@ -6,3 +6,5 @@ If two or more distributors have the same category, each one will sort and merge
 Useful to update or install blacklists from different sources into one.
 
 Please download and improve it.
+
+Works with bash 4 and +
