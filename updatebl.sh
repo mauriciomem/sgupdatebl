@@ -1,8 +1,8 @@
 #!/bin/bash
 # folders
 dirbltmp='' # bl temp folder. Ex /tmp/bltmp 
-dirbldst='/etc/squid/shared/acl' # bl destination folder. Ex /var/lib/squidguard/db
-dirblsrc='/tmp/blacklists' # bl source folder. Ex /tmp/blacklists
+dirbldst='' # bl destination folder. Ex /var/lib/squidguard/db
+dirblsrc='' # bl source folder. Ex /tmp/blacklists
 # admin
 adminmail='johndoe@example.net'
 mfrom=$(hostname -s)'@example.net'
